@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Colores para los ejes -->
+    <color name="color_axis_x">#D32F2F</color>
+    <color name="color_axis_y">#388E3C</color>
+    <color name="color_axis_z">#1976D2</color>
+</resources>
